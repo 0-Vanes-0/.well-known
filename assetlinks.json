@@ -1,1 +1,12 @@
-{}
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dd2.squadbuilder",
+      "sha256_cert_fingerprints": [
+        "5da8220f6ab420e1016d84461d691cca71effa4b3a01b7d0a0ccfd99f88a0a86"
+      ]
+    }
+  }
+]
